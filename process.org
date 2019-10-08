@@ -1,6 +1,4 @@
 #+TITLE: ~ Process ~
-#+AUTHOR: Jonathan
-#+DATE: <2019-09-19 Thu>
 
 * Ideas On Top of My Mind
 ** Manipulating ideas by manipulating text
