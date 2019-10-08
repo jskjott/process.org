@@ -143,7 +143,7 @@ C-c C-x C-r produce clock report
 
 C-c C-s save current buffer
 
-** TODO learn about workaround for lack of "tail call optimization" in JS [[https://gist.github.com/Gozala/1697037][relevant example]]
+** TODO learn about workaround for lack of 'tail call optimization' in JS [[https://gist.github.com/Gozala/1697037][relevant example]]
    DEADLINE: <2019-09-24 Tue>
 ** TODO Read about [[https://orgmode.org/worg/dev/org-syntax.html][org-mode syntax]] 
    SCHEDULED: <2019-09-26 Thu>
@@ -172,7 +172,7 @@ C-c C-s save current buffer
    DEADLINE: <2019-10-18 Fri>
 ** TODO create _Modes of Text_
 *** Haggai's book is a treasure throve for getting started!
-*** "Early writing provides the reader with conspicuous help for situating himself imaginatively." - Orality and Literacy
+*** 'Early writing provides the reader with conspicuous help for situating himself imaginatively.' - Orality and Literacy
 ** TODO put process on jskjott
 * Ideas
 ** building two scaffolds next to each other:  
