@@ -57,7 +57,7 @@
 * Habits
 ** reflect on top ideas   <2019-09-20 Fri +1d>
 * Collaborations
-** Parthiv
+** P
 *** Eye
 **** DONE make pull request to eye
     DEADLINE: <2019-09-21 Sat>
@@ -71,23 +71,23 @@
      CLOCK: [2019-09-27 Fri 10:46]--[2019-09-27 Fri 11:23] =>  0:37
      CLOCK: [2019-09-27 Fri 09:49]--[2019-09-27 Fri 10:16] =>  0:27
      :END:
-** Xiaofan
+** X
 *** continue work on network visual
 SCHEDULED: <2019-09-27 Fri>
-**** DONE sent Xiaofan a reminder.
-** Eli
+**** DONE sent X a reminder.
+** E
 *** continue work on map 
     SCHEDULED: <2019-09-24 Tue>
 ** Webring
 *** come up with ideas for extending the project 
     SCHEDULED: <2019-09-30 Mon>
-** Ryan
+** R
 *** look into conferences
     SCHEDULED: <2019-10-06 Sun>
 *** DONE work on something tangible relating to org-mode tranformations
     SCHEDULED: <2019-09-29 Sun>
     - started writing my parser
-*** TODO show Ryan your initial parser project
+*** TODO show R your initial parser project
     SCHEDULED: <2019-10-03 Thu>
 * To Remember
 ** Cherry mx-blues keys are great!
@@ -164,7 +164,7 @@ C-c C-s save current buffer
     :LOGBOOK:
     CLOCK: [2019-09-23 Mon 23:55]--[2019-09-24 Tue 00:16] =>  0:21
     :END:
-** DONE Call Valdemar 
+** DONE Call V
    DEADLINE: <2019-09-25 Wed>
 ** TODO apply to [[http://webresidencies-solitude-zkm.com/][solitude and ZKM]] web residency
    DEADLINE: <2019-10-18 Fri>
