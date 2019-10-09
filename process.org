@@ -32,10 +32,11 @@
     :LOGBOOK:
     CLOCK: [2019-09-21 Sat 10:51]--[2019-09-21 Sat 13:10] =>  2:19
     :END:
-*** TODO size network nodes relative to repo size
-*** TODO provide repo info on node hover
-*** TODO migrate visual.vue from js to ts
-*** TODO add project to Glitch 
+*** Archived tasks 
+**** size network nodes relative to repo size
+**** provide repo info on node hover
+**** migrate visual.vue from js to ts
+**** add project to Glitch (was unable to)
     DEADLINE: <2019-09-25 Wed>
     :LOGBOOK:
     CLOCK: [2019-09-25 Wed 14:13]--[2019-09-25 Wed 15:35] =>  1:22
@@ -52,7 +53,7 @@
     DEADLINE: <2019-09-29 Sun>
     - wrote tutorial markdown parser
     - will build out my org file parser based on this boilerplate
-*** TODO parse this file and generate some HTML with your parser
+*** DONE parse this file and generate some HTML with your parser
     Deadline: <2019-10-02 Wed>
 * Habits
 ** reflect on top ideas   <2019-09-20 Fri +1d>
@@ -92,7 +93,7 @@ SCHEDULED: <2019-09-27 Fri>
 * To Remember
 ** Cherry mx-blues keys are great!
 * To-Learn
-** TODO org-mode <2019-09-20 Fri>
+** DONE org-mode <2019-09-20 Fri>
 *** _General_
 
 C / undo
@@ -143,9 +144,9 @@ C-c C-s save current buffer
 
 ** TODO learn about workaround for lack of 'tail call optimization' in JS [[https://gist.github.com/Gozala/1697037][relevant example]]
    DEADLINE: <2019-09-24 Tue>
-** TODO Read about [[https://orgmode.org/worg/dev/org-syntax.html][org-mode syntax]] 
+** DONE Read about [[https://orgmode.org/worg/dev/org-syntax.html][org-mode syntax]] 
    SCHEDULED: <2019-09-26 Thu>
-** TODO learn RC list of front-end topics [[https://github.com/recursecenter/wiki/wiki/Interview-Prep:-Front-End-Topics][front-end topics]] 
+** DONE learn RC list of front-end topics [[https://github.com/recursecenter/wiki/wiki/Interview-Prep:-Front-End-Topics][front-end topics]] 
    SCHEDULED: <2019-09-25 Wed>
    :LOGBOOK:
    CLOCK: [2019-09-27 Fri 11:35]--[2019-09-27 Fri 11:41] =>  0:06
@@ -171,7 +172,7 @@ C-c C-s save current buffer
 ** TODO create _Modes of Text_
 *** Haggai's book is a treasure throve for getting started!
 *** 'Early writing provides the reader with conspicuous help for situating himself imaginatively.' - Orality and Literacy
-** TODO put process on jskjott
+** DONE put process on jskjott
 * Ideas
 ** building two scaffolds next to each other:  
 *** one scaffold is the systems which enable expressionthe other 
