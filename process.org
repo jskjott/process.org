@@ -44,9 +44,14 @@
 ** Chasmic
 *** DONE org-mode exploration
     SCHEDULED: <2019-09-21 Sat>
-
 *** Rust cli exploration
 **** DONE DEADLINE: <2019-09-20 Fri> write about Chasmic 0.1
+*** Memex
+**** every document can serve as an annotation of another document
+**** main document in the center and annotations on either side
+***** click on a side an that side becomes the main annotations
+***** each section shows multicirectional citations
+**** You can have circular annotations 
 ** Manoeuvre
 ** Org-Wiki
 *** DONE figure out minimum viable way of generating org-like wiki format on your website
@@ -169,6 +174,7 @@ C-c C-s save current buffer
    DEADLINE: <2019-09-25 Wed>
 ** TODO apply to [[http://webresidencies-solitude-zkm.com/][solitude and ZKM]] web residency
    DEADLINE: <2019-10-18 Fri>
+*** How might I extend the webring to encourage community?
 ** TODO create _Modes of Text_
 *** Haggai's book is a treasure throve for getting started!
 *** 'Early writing provides the reader with conspicuous help for situating himself imaginatively.' - Orality and Literacy
