@@ -46,12 +46,6 @@
     SCHEDULED: <2019-09-21 Sat>
 *** Rust cli exploration
 **** DONE DEADLINE: <2019-09-20 Fri> write about Chasmic 0.1
-*** Memex
-**** every document can serve as an annotation of another document
-**** main document in the center and annotations on either side
-***** click on a side an that side becomes the main annotations
-***** each section shows multicirectional citations
-**** You can have circular annotations 
 ** Manoeuvre
 ** Org-Wiki
 *** DONE figure out minimum viable way of generating org-like wiki format on your website
@@ -60,6 +54,23 @@
     - will build out my org file parser based on this boilerplate
 *** DONE parse this file and generate some HTML with your parser
     Deadline: <2019-10-02 Wed>
+*** Memex
+**** every document can serve as an annotation of another document
+**** main document in the center and annotations on either side
+***** click on a side an that side becomes the main annotations
+***** each section shows multicirectional citations
+**** You can have circular annotations 
+**** org-like files in a folder.
+**** index of all file names and * titles.
+**** one can reference any section in the index in capital letters.
+**** referenced sections will appear up till 5 lines worth of content on the left and right of the main section.
+**** any section can be clicked to view the given section of the specificity of the reference.
+**** # indicates the section to be found
+**** everything in one org file
+**** manual annotation links in the beginning
+**** define log structure -> date, type, log
+**** project sub header all information on that project kept under that header.
+**** easier way of working with long form text?
 * Habits
 ** reflect on top ideas   <2019-09-20 Fri +1d>
 * Collaborations
