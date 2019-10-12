@@ -65,7 +65,7 @@
 **** one can reference any section in the index in capital letters.
 **** referenced sections will appear up till 5 lines worth of content on the left and right of the main section.
 **** any section can be clicked to view the given section of the specificity of the reference.
-**** # indicates the section to be found
+**** hashtag indicates the section to be found
 **** everything in one org file
 **** manual annotation links in the beginning
 **** define log structure -> date, type, log
