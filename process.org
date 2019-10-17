@@ -71,6 +71,8 @@
 **** define log structure -> date, type, log
 **** project sub header all information on that project kept under that header.
 **** easier way of working with long form text?
+** Email Check-ins 
+*** figure out to send bi-weekly check-in reminder
 * Habits
 ** reflect on top ideas   <2019-09-20 Fri +1d>
 * Collaborations
@@ -108,6 +110,8 @@ SCHEDULED: <2019-09-27 Fri>
     SCHEDULED: <2019-10-03 Thu>
 * To Remember
 ** Cherry mx-blues keys are great!
+** The last black in SF - movie - Tanna recommended
+** Fight Club - book
 * To-Learn
 ** DONE org-mode <2019-09-20 Fri>
 *** _General_
@@ -150,6 +154,9 @@ C-c . place new date
 C-c C-d insert new deadline
 C-c C-s insert schedule item
 
+C-c C-x C-i clock in
+C-c C-x C-o clock out
+
 C-c C-c run code block
 
 C-c C-x C-r produce clock report
@@ -185,6 +192,10 @@ C-c C-s save current buffer
    DEADLINE: <2019-09-25 Wed>
 ** TODO apply to [[http://webresidencies-solitude-zkm.com/][solitude and ZKM]] web residency
    DEADLINE: <2019-10-18 Fri>
+   :LOGBOOK:
+   CLOCK: [2019-10-15 Tue 17:09]--[2019-10-15 Tue 17:35] =>  0:26
+   CLOCK: [2019-10-15 Tue 10:33]--[2019-10-15 Tue 10:59] =>  0:26
+   :END:
 *** How might I extend the webring to encourage community?
 ** TODO create _Modes of Text_
 *** Haggai's book is a treasure throve for getting started!
