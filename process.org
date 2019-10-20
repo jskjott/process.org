@@ -47,6 +47,8 @@
 *** Rust cli exploration
 **** DONE DEADLINE: <2019-09-20 Fri> write about Chasmic 0.1
 ** Manoeuvre
+** Webring
+*** [(rc_webring.png)] [this is a test comment] 
 ** Org-Wiki
 *** DONE figure out minimum viable way of generating org-like wiki format on your website
     DEADLINE: <2019-09-29 Sun>
@@ -61,7 +63,7 @@
 ***** each section shows multicirectional citations
 **** You can have circular annotations 
 **** org-like files in a folder.
-**** index of all file names and * titles.
+**** index of all file names and star titles.
 **** one can reference any section in the index in capital letters.
 **** referenced sections will appear up till 5 lines worth of content on the left and right of the main section.
 **** any section can be clicked to view the given section of the specificity of the reference.
@@ -73,6 +75,8 @@
 **** easier way of working with long form text?
 ** Email Check-ins 
 *** figure out to send bi-weekly check-in reminder
+** Hyperinteractable
+*** create list of ideas
 * Habits
 ** reflect on top ideas   <2019-09-20 Fri +1d>
 * Collaborations
@@ -193,6 +197,7 @@ C-c C-s save current buffer
 ** TODO apply to [[http://webresidencies-solitude-zkm.com/][solitude and ZKM]] web residency
    DEADLINE: <2019-10-18 Fri>
    :LOGBOOK:
+   CLOCK: [2019-10-15 Tue 20:49]--[2019-10-15 Tue 21:01] =>  0:12
    CLOCK: [2019-10-15 Tue 17:09]--[2019-10-15 Tue 17:35] =>  0:26
    CLOCK: [2019-10-15 Tue 10:33]--[2019-10-15 Tue 10:59] =>  0:26
    :END:
