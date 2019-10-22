@@ -3,13 +3,25 @@
 * Projects
 ** HyperInteractable
 *** A design speculation series
-*** The idea behind this series is to explore how the interactivity of designed objects of today often is taken to the extreme - becoming unhealthy of their users.
+**** The idea behind this series is to explore how the interactivity of designed objects of today often is taken to the extreme - becoming unhealthy for their users. 
+**** I want this project to engage with the narratives attached to very interaction heavy entities. [this lens is inspired by Weiyi Li's statement Function as Narrative]
+**** Perhaps it makes sense to create both interaction heavy and interaction light speculations?
 *** pieces:
 **** A Matryoshka box with a lot of open marks
 ***** just interactions leading to nothing
+**** A piece incentivising someone to do something with all the senses.
+***** telling someone to do something
+***** visually prompts them to do something
+***** touching the onlooker in some way
+***** introduce a kind of smell which evokes action
+***** appeal to sense of taste
+*** tasks:
+**** ideation
+      :LOGBOOK:
+      CLOCK: [2019-10-22 Tue 22:19]--[2019-10-22 Tue 22:25] =>  0:06
+      :END:
 ** Eye
 *** DONE make pull request to eye
-    DEADLINE: <2019-09-21 Sat>
     :LOGBOOK:
     CLOCK: [2019-09-21 Sat 17:11]--[2019-09-21 Sat 18:24] =>  1:13
     CLOCK: [2019-09-21 Sat 16:26]--[2019-09-21 Sat 16:58] =>  0:32
@@ -23,4 +35,10 @@
 ** Webring
 *** 
 ** Knowledge Base
+*** A memex-like tool for doing and documenting projects.
+*** tasks:
+**** create visual design
+     :LOGBOOK:
+     CLOCK: [2019-10-22 Tue 22:27]
+     :END:
 ** Email Community
