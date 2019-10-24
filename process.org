@@ -50,6 +50,19 @@
       CLOCK: [2019-10-23 Wed 11:26]--[2019-10-23 Wed 11:37] =>  0:11
       CLOCK: [2019-10-23 Wed 10:36]--[2019-10-23 Wed 11:08] =>  0:32
       :END:
+**** <2019-10-24 Thu>
+***** structuring edit
+       :LOGBOOK:
+       CLOCK: [2019-10-24 Wed 11:55]--[2019-10-24 Wed 13:00] =>  1:05
+       :END:
+***** creating optimised media
+      :LOGBOOK:
+      CLOCK: [2019-10-24 Thu 13:00]--[2019-10-24 Thu 13:22] =>  0:22
+      :END:
+***** editing first draft
+      :LOGBOOK:
+      CLOCK: [2019-10-24 Thu 23:30]--[2019-10-25 Fri 00:20] =>  0:50
+      :END:
 ** Webring
 *** 
 ** Knowledge Base
