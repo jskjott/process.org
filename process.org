@@ -63,6 +63,11 @@
       :LOGBOOK:
       CLOCK: [2019-10-24 Thu 23:30]--[2019-10-25 Fri 00:20] =>  0:50
       :END:
+**** <2019-10-25 Fri>
+***** editing first draft
+      :LOGBOOK:
+      CLOCK: [2019-10-25 Fri 09:45]--[2019-10-25 Fri 11:33] =>  1:48
+      :END:
 ** Webring
 *** 
 ** Knowledge Base
