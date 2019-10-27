@@ -66,7 +66,13 @@
 **** <2019-10-25 Fri>
 ***** editing first draft
       :LOGBOOK:
+      CLOCK: [2019-10-25 Fri 12:38]--[2019-10-25 Fri 15:51] =>  3:13
       CLOCK: [2019-10-25 Fri 09:45]--[2019-10-25 Fri 11:33] =>  1:48
+      :END:
+**** <2019-10-26 Sat>
+***** editing first draft
+      :LOGBOOK:
+      CLOCK: [2019-10-26 Sat 12:15]
       :END:
 ** Webring
 *** 
@@ -78,3 +84,15 @@
      CLOCK: [2019-10-22 Tue 22:27]--[2019-10-22 Tue 22:51] =>  0:24
      :END:
 ** Email Community
+** Research Through Design on Process
+*** [[https://www.cs.cmu.edu/~kqy/resources/PROCESS_YConf.pdfKY ][KY - yconf]]
+*** Tiffany Tseng
+**** [[https://pdfs.semanticscholar.org/0d86/12c2c7bf0111b188ede3cf28238b8f1b23e4.pdf][ making make-throughs]]
+**** [[https://www.media.mit.edu/videos/tiffany_tseng_defense-2016-05-06/][defense]]
+*** [[http://spdow.ucsd.edu/files/PrototypingDynamics-CHI11.pdf][prototyping dynamics - multiple designs]]
+*** [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995763/][the exploration/exploitation dilemma]]
+*** [[https://smg.media.mit.edu/classes/SocialVis03/editWear.pdf][edit wear and read wear]]
+*** Research Through Design
+**** [[http://researchthroughdesign.org/wp-content/uploads/2015/09/PraxisPoeticsRTD-Proceedings.pdf][proceedings 2013]]
+**** [[http://rtd2015.herokuapp.com/programme/][proceedings 2015]]
+**** [[https://www.researchgate.net/publication/263440807_Research_Through_Design_What_Does_it_Mean_for_a_Design_Artifact_to_be_Developed_in_the_Scientific_Context][What Does it Mean for a Design Artifact to be Developed in the Scientific Context?]]
